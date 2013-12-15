@@ -21,7 +21,7 @@ The last tab is the whole object itself for easy copy/paste
 
 Events are invoked by their name and delivered in their object type configuration - single: false is appended to all events, but can be removed/edited easily (for those who don't wanna set it, just leave it since false is default).
 
-All arguments returned are delivered pseudo type casted, meaning that numbers are prefixed n_, booleans are prefixed s_, objects o_, arrays a_, mixed m_ and instances of (mainly Ext components, managers etc..) are prefixed i_
+All arguments returned are delivered pseudo type casted, meaning that numbers are prefixed n_, booleans are prefixed b_, strings s_, objects o_, arrays a_, mixed m_ and instances of (mainly Ext components, managers etc..) are prefixed i_
 
 Use and distribute as you wish  
 Igor Szyporyn
