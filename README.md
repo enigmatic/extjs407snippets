@@ -1,4 +1,4 @@
-## ExtJS 4.0.7 snippets for Sublime Text ##  
+## ExtJS 4.0.7 snippets for Sublime Text ##
 ### Snippets for Sublime Text that will help you autocomplete most of the xtypes and listeners in ExtJS 4.0.7. ###
 
 The snippets that create xtypes will select itself as the last field tab selection for copy/pasting ease.
