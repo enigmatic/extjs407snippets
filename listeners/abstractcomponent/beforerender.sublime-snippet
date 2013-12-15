@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires before the component is rendered. Return false from an event handler to stop the render.
+}'beforerender': {
+	fn: function (i_self, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: beforerender</description>
+	<scope>source.js</scope>
+	<tabTrigger>beforerender</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[Ext.create('${1:Namespace}${2:.${3:}}'${4:, {
+	${5:configOption}: ${6:value}
+\}});]]></content>
+    <description>Ext.create</description>
+    <scope>source.js</scope>
+    <tabTrigger>create</tabTrigger>
+</snippet>

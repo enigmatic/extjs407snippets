@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires after a Component has been visually deactivated.
+}'deactivate': {
+	fn: function (i_self, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: deactivate</description>
+	<scope>source.js</scope>
+	<tabTrigger>deactivate</tabTrigger>
+</snippet>

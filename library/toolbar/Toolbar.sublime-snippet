@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[${4:{
+	xtype: 'toolbar'${1:,
+	items: ${2:[
+		${3:}
+	]}}
+\}}]]></content>
+	<description>xtype: toolbar</description>
+	<scope>source.js</scope>
+	<tabTrigger>toolbar</tabTrigger>
+</snippet>

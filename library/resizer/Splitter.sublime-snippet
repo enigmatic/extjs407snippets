@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[${1:{
+	xtype: 'splitter'
+\}}${2:}]]></content>
+	<description>xtype: splitter</description>
+	<scope>source.js</scope>
+	<tabTrigger>splitter</tabTrigger>
+</snippet>

@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[Ext.MessageBox.show(${22:{${1:
+	animateTarget: ${9:false}}${2:,
+	title: '${10:#string}'}${3:,
+	msg: '${11:#string}'}${4:,
+	icon: ${12:Ext.Msg.WARNING}}${5:,
+	width: ${13:400}}${6:,
+	buttons: ${14:Ext.Msg.YESNOCANCEL}}${7:,
+	buttonText: {${15:
+		yes: '${18:Yes}'}${16:,
+		no: '${19:No}'}${17:,
+		cancel: '${20:Cancel}'}
+	\}}${8:,
+	fn: function ( i_button ) {
+		// Code here from button click...
+	\}}${21:}
+\}});]]></content>
+	<description>Ext.MsgBox.WARNING</description>
+	<scope>source.js</scope>
+	<tabTrigger>messagewarning</tabTrigger>
+</snippet>

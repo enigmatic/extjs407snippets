@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[${15:{
+	xtype: 'container',
+	name: '${1:#string}'${2:${3:,
+	layout: {
+		type: '${7:auto}'${8:}
+	\}}${4:,
+	style: {
+		${9:padding: '${10:15}px'}
+	\}}${5:,
+	border: ${11:true}}${6:,
+	items: ${12:[
+		${13:}
+	]}}}${14:}
+\}}]]></content>
+	<description>xtype: container</description>
+	<scope>source.js</scope>
+	<tabTrigger>container</tabTrigger>
+</snippet>

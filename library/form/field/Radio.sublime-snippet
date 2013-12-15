@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[${20:{
+	xtype: 'radiofield',
+	name: '${1:#string}'${2:${3:,
+	anchor: '${11:100%}'}${4:,
+	boxLabel: '${12:#string}'}${5:,
+	boxLabelAlign: '${13:after}'}${6:,
+	fieldLabel: '${14:#string}'}${7:,
+	id: '${15:#string}'}${8:,
+	inputValue: ${16:'#string'}}${9:,
+	labelWidth: ${17:'#number'}}${10:,
+	value: ${18:'#mixed'}}}${19:}
+\}}]]></content>
+    <description>xtype: radiofield</description>
+    <scope>source.js</scope>
+    <tabTrigger>radio</tabTrigger>
+</snippet>
+

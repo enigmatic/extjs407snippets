@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires after the Panel iconCls has been set or changed.
+}'iconchange': {
+	fn: function (i_self, s_new, s_old, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: iconchange</description>
+	<scope>source.js</scope>
+	<tabTrigger>iconchange</tabTrigger>
+</snippet>

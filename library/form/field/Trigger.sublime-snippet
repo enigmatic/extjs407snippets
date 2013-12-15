@@ -1,0 +1,23 @@
+<snippet>
+    <content><![CDATA[${22:{
+	xtype: 'triggerfield',
+	name: '${1:#string}'${2:${3:,
+	allowBlank: ${13:true}}${4:,
+	anchor: '${14:100%}'}${5:,
+	emptyText: '${15:#string}'}${6:,
+	fieldLabel: '${16:#string}'}${7:,
+	labelWidth: ${17:'#number'}}${8:,
+	trigger1Cls: 'x-form-${18:clear}-trigger'}${9:,
+	trigger2Cls: 'x-form-${19:search}-trigger'}${10:,
+	onTrigger1Click: function () {
+		// Code here for click on inner button
+	\}}${11:,
+	onTrigger2Click: function () {
+		// Code here for click on outer button
+	\}}${12:,
+	value: ${20:'#mixed'}}}${21:}
+\}}]]></content>
+    <description>xtype: triggerfield</description>
+    <scope>source.js</scope>
+    <tabTrigger>trigger</tabTrigger>
+</snippet>

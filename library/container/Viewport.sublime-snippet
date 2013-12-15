@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[${12:{
+	xtype: 'viewport',
+	name: '${1:#string}'${2:${3:,
+	layout: {
+		type: '${5:border}'${6:}
+	\}}${4:,
+	items: ${7:[
+		${9:{
+			${8:region: 'south',
+			collapsible: true,
+			split: true}
+		\}}${10:}
+	]}}}${11:}
+\}}]]></content>
+	<description>xtype: viewport</description>
+	<scope>source.js</scope>
+	<tabTrigger>viewport</tabTrigger>
+</snippet>

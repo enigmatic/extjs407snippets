@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[${12:{
+	xtype: 'radiogroup',
+	name: '${1:#string}'${2:,
+	fieldLabel: '${6:#string}'}${3:,
+	columns: ${7:2}}${4:,
+	vertical: ${8:false}}${5:,
+	items: ${9:[
+		${10:}
+	]}}${11:}
+\}}]]></content>
+	<description>xtype: radiogroup</description>
+	<scope>source.js</scope>
+	<tabTrigger>radiogroup</tabTrigger>
+</snippet>

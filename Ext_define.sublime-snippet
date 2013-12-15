@@ -1,0 +1,32 @@
+<snippet>
+    <content><![CDATA[/**
+ * @class ${1:Namespace}.${2:${TM_FILENAME/(.+)\.js$/$1/}}
+ * @extends ${3:extendsClass}
+ * ${12:Description}
+ * 
+ * @returns this
+ */
+Ext.define('${1:Namespace}.${2:ClassName}', {
+    extend: '${3:extendsClass}',
+    alias: ['widget.${4:aliasName}']${5:${6:,
+    requires: [
+        '${7:requiresClass}'${8:}
+    ]},
+    config: {
+        ${9:configName}: ${10:null}${11:}
+    \}},
+    initComponent: function () {
+
+        var i_class = this;
+
+        i_class.callParent();
+
+        ${13:// Code here}
+
+        return i_class;
+    \}
+\});]]></content>
+    <description>Ext.define</description>
+    <scope>source.js</scope>
+    <tabTrigger>define</tabTrigger>
+</snippet>

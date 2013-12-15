@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[Ext.MessageBox.show(${20:{${1:
+	animateTarget: ${9:false}}${2:,
+	title: '${10:#string}'}${3:,
+	msg: '${11:#string}'}${4:,
+	icon: ${12:Ext.Msg.QUESTION}}${5:,
+	width: ${13:400}}${6:,
+	buttons: ${14:Ext.Msg.YESNO}}${7:,
+	buttonText: {${15:
+		yes: '${17:Yes}'}${16:,
+		no: '${18:No}'}
+	\}}${8:,
+	fn: function ( i_button ) {
+		// Code here from button click...
+	\}}${19:}
+\}});]]></content>
+	<description>Ext.MsgBox.QUESTION</description>
+	<scope>source.js</scope>
+	<tabTrigger>messagequestion</tabTrigger>
+</snippet>

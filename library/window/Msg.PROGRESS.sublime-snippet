@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[Ext.MessageBox.show(${24:{${1:
+	animateTarget: ${11:false}}${2:,
+	closable: ${12:false}}${3:,
+	title: '${13:#string}'}${4:,
+	msg: '${14:#string}'}${5:,
+	icon: ${16:'ext-mb-${15:download}'}}${6:,
+	width: ${17:400}}${7:,
+	wait: true}${8:,
+	waitConfig: {
+		${19:interval: ${18:200}}${20:}
+	\}}${9:,
+	progress: ${21:true}}${10:,
+	progressText: '${22:#string}'}${23:}
+\}});]]></content>
+	<description>Ext.MsgBox.PROGRESS</description>
+	<scope>source.js</scope>
+	<tabTrigger>messageprogress</tabTrigger>
+</snippet>

@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[${14:{
+	xtype: 'cycle',
+	name: '${1:#string}'${2:${3:,
+	showText: ${8:false}}${4:,
+	forceIcon: ${9:false}}${5:,
+	prependText: '${10:#string} '}${6:,
+	changeHandler: function (i_button, i_active) {
+		// Code here...
+	\}}${7:,
+	menu: ${12:[
+		${11:}
+	]}}}${13:}
+\}}]]></content>
+	<description>xtype: cycle</description>
+	<scope>source.js</scope>
+	<tabTrigger>buttoncycle</tabTrigger>
+</snippet>

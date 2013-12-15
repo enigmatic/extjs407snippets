@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[Ext.create('Ext.data.Store', ${1:{${2:
+	model: ${5:'#Ext.data.Model'}}${3:,
+	proxy: ${6:{${7:
+		type: '${10:ajax}'}${8:,
+		url : '${11:/users.json}'}${9:,
+		reader: ${12:{${13:
+			type: '${15:json}'}${14:,
+			root: ${16:'users'}}
+		\}}}
+	\}}}${4:,
+	autoLoad: ${17:true}}
+\}});]]></content>
+	<description>Ext.data.Store</description>
+	<scope>source.js</scope>
+	<tabTrigger>store</tabTrigger>
+</snippet>

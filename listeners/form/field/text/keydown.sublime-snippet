@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// Keydown input field event.
+// This event only fires if enableKeyEvents is set to true.
+}'keydown': {
+	fn: function (i_self, o_event, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: keydown</description>
+	<scope>source.js</scope>
+	<tabTrigger>keydown</tabTrigger>
+</snippet>

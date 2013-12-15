@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires when an action is completed.
+}'actioncomplete': {
+	fn: function (i_self, i_action, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: actioncomplete</description>
+	<scope>source.js</scope>
+	<tabTrigger>actioncomplete</tabTrigger>
+</snippet>

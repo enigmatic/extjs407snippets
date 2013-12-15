@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fired after Component has rendered, and been postprocesed by any afterRender method defined for the Component.
+}'afterrender': {
+	fn: function (i_self, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: afterrender</description>
+	<scope>source.js</scope>
+	<tabTrigger>afterrender</tabTrigger>
+</snippet>

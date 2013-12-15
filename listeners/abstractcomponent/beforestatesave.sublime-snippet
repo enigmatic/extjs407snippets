@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// Fires before the state of the object is saved to the configured state provider.
+// Return false to stop the save.
+}'beforestatesave': {
+	fn: function (i_self, o_state, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: beforestatesave</description>
+	<scope>source.js</scope>
+	<tabTrigger>beforestatesave</tabTrigger>
+</snippet>

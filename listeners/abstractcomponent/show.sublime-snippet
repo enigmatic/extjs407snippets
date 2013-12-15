@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires after the component is shown when calling the show method.
+}'show': {
+	fn: function (i_self, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: show</description>
+	<scope>source.js</scope>
+	<tabTrigger>show</tabTrigger>
+</snippet>

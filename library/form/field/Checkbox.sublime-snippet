@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[${18:{
+	xtype: 'checkboxfield',
+	name: '${1:#string}'${2:${3:,
+	anchor: '${10:100%}'}${4:,
+	checked: ${11:true}}${5:,
+	boxLabel: '${12:#string}'}${6:,
+	boxLabelAlign: '${13:after}'}${7:,
+	fieldLabel: '${14:#string}'}${8:,
+	inputValue: '${15:on}'}${9:,
+	value: ${16:'#mixed'}}}${17:}
+\}}]]></content>
+    <description>xtype: checkboxfield</description>
+    <scope>source.js</scope>
+    <tabTrigger>checkbox</tabTrigger>
+</snippet>

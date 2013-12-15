@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires after the Panel title has been set or changed.
+}'titlechange': {
+	fn: function (i_self, s_new, s_old, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: titlechange</description>
+	<scope>source.js</scope>
+	<tabTrigger>titlechange</tabTrigger>
+</snippet>

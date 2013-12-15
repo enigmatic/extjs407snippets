@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[${24:{
+	xtype: 'form',
+	name: ${1:'#string'}${2:${3:,
+	bodyStyle: '${10:padding: 15px;${9}}'}${4:,
+	defaults: {
+		${12:anchor: '${11:100%}'}
+	\}}${5:,
+	defaultType: '${13:textfield}'}${6:,
+	fieldDefaults: {
+		${15:labelWidth: ${14:80}},
+		${17:labelAlign: '${16:left}'}${18:}
+	\}}${7:,
+	layout: {
+		type: '${19:anchor}'${20:}
+	\}}${8:,
+	items: ${21:[
+		${22:}
+	]}}}${23:}
+\}}]]></content>
+    <description>xtype: panel</description>
+    <scope>source.js</scope>
+    <tabTrigger>form</tabTrigger>
+</snippet>

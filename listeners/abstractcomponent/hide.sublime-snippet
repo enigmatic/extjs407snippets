@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// Fires after the component is hidden.
+// Fires after the component is hidden when calling the hide method.
+}'hide': {
+	fn: function (i_self, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: hide</description>
+	<scope>source.js</scope>
+	<tabTrigger>hide</tabTrigger>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// Fires before any component is removed from the container.
+// A handler can return false to cancel the remove.
+}'beforeremove': {
+	fn: function (i_self, i_component, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: beforeremove</description>
+	<scope>source.js</scope>
+	<tabTrigger>beforeremove</tabTrigger>
+</snippet>

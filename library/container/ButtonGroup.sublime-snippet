@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[${11:{
+	xtype: 'buttongroup',
+	name: '${1:#string}',
+	columns: ${4:3}${2:,
+	title: '${5:#string}'}${3:,
+	items: ${6:[
+		${8:{
+			${7:rowspan: '3',
+			scale: 'large',
+			iconCls: '#string',
+			iconAlign: 'top'}
+		\}}${9:}
+	]}}${10:}
+\}}]]></content>
+	<description>xtype: buttongroup</description>
+	<scope>source.js</scope>
+	<tabTrigger>buttongroup</tabTrigger>
+</snippet>

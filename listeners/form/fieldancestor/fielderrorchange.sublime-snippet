@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// Fires when the active error message is changed for any
+// one of the Ext.form.Labelable instances within this container.
+}'fielderrorchange': {
+	fn: function (i_self, i_labelable, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: fielderrorchange</description>
+	<scope>source.js</scope>
+	<tabTrigger>fielderrorchange</tabTrigger>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// Fires before the state of the object is restored.
+// Return false from an event handler to stop the restore.
+}'beforestaterestore': {
+	fn: function (i_self, o_state, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: beforestaterestore</description>
+	<scope>source.js</scope>
+	<tabTrigger>beforestaterestore</tabTrigger>
+</snippet>

@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[${20:{
+	xtype: 'spinnerfield',
+	name: '${1:#string}'${2:${3:,
+	anchor: '${13:100%}'}${4:,
+	emptyText: '${14:#string}'}${5:,
+	fieldLabel: '${15:#string}'}${6:,
+	labelWidth: ${16:'#number'}}${7:,
+	step: ${17:10}}${8:,
+	value: ${18:'#mixed'}}${9:,
+	listeners: {${10:
+		'step': {
+			fn: function (i_self, s_direction, o_eOpts) {
+				// Code here
+			\}
+		\},}${11:
+		'stepup': {
+			fn: function (i_self, o_eOpts) {
+				// Code here
+			\}
+		\},}${12:
+		'stepdown': {
+			fn: function(i_self, o_eOpts) {
+				// Code here
+			\}
+		\}}
+	\}}}${19:}
+\}}]]></content>
+	<description>xtype: spinnerfield</description>
+	<scope>source.js</scope>
+	<tabTrigger>spinner</tabTrigger>
+</snippet>

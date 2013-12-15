@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires after the component markup is rendered.
+}'render': {
+	fn: function (i_self, i_owner, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: render</description>
+	<scope>source.js</scope>
+	<tabTrigger>render</tabTrigger>
+</snippet>

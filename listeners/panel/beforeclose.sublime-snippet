@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// Fires before the user closes the panel.
+// Return false from any listener to stop the close event being fired.
+}'beforeclose': {
+	fn: function (i_self, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: beforeclose</description>
+	<scope>source.js</scope>
+	<tabTrigger>beforeclose</tabTrigger>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// Fires before the component is hidden when calling the hide method.
+// Return false from an event handler to stop the hide.
+}'beforehide': {
+	fn: function (i_self, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: beforehide</description>
+	<scope>source.js</scope>
+	<tabTrigger>beforehide</tabTrigger>
+</snippet>

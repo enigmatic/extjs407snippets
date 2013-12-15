@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[${22:{
+	xtype: 'splitbutton',
+	name: '${1:#string}'${2:,
+	text: '${11:#string}'}${3:,
+	textAlign: '${12:center}'}${4:,
+	type: '${13:button}'}${5:,
+	enableToggle: ${14:false},
+	allowDepress: ${15:true},
+	pressed: ${16:false}}${6:,
+	arrowAlign: '${17:right}'}${7:,
+	arrowTooltip: '${18:#string}'}${8:,
+	arrowHandler: function () {
+		// Code here on splitclick...
+	\}}${9:,
+	handler: function (i_button) {
+		// Code here on buttonclick...
+	\}}${10:,
+	menu: ${20:[
+		${19:}
+	]}}${21:}
+}}]]></content>
+	<description>xtype: splitbutton</description>
+	<scope>source.js</scope>
+	<tabTrigger>buttonsplit</tabTrigger>
+</snippet>

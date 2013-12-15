@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// Fires before any action is performed.
+// Return false to cancel the action.
+}'beforeaction': {
+	fn: function (i_self, i_action, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: beforeaction</description>
+	<scope>source.js</scope>
+	<tabTrigger>beforeaction</tabTrigger>
+</snippet>

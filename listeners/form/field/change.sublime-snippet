@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires when a user-initiated change is detected in the value of the field.
+}'change': {
+	fn: function (i_self, m_new, m_old, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: change</description>
+	<scope>source.js</scope>
+	<tabTrigger>change</tabTrigger>
+</snippet>

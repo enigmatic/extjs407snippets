@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[Ext.MessageBox.show(${18:{${1:
+	animateTarget: ${9:false}}${2:,
+	title: '${10:#string}'}${3:,
+	msg: '${11:#string}'}${4:,
+	icon: ${12:Ext.Msg.INFO}}${5:,
+	width: ${13:400}}${6:,
+	buttons: ${14:Ext.Msg.OK}}${7:,
+	buttonText: {${15:
+		ok: '${16:OK}'}
+	\}}${8:,
+	fn: function ( i_button ) {
+		// Code here from button click...
+	\}}${17:}
+\}});]]></content>
+	<description>Ext.MsgBox.INFO</description>
+	<scope>source.js</scope>
+	<tabTrigger>messageinfo</tabTrigger>
+</snippet>

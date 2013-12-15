@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[${16:{
+	xtype: 'textfield',
+	name: '${1:#string}'${2:${3:,
+	allowBlank: ${9:true}}${4:,
+	anchor: '${10:100%}'}${5:,
+	emptyText: '${11:#string}'}${6:,
+	fieldLabel: '${12:#string}'}${7:,
+	labelWidth: ${13:'#number'}}${8:,
+	value: ${14:'#mixed'}}}${15:}
+\}}]]></content>
+	<description>xtype: textfield</description>
+	<scope>source.js</scope>
+	<tabTrigger>text</tabTrigger>
+</snippet>

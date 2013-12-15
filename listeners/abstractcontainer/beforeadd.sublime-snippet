@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires before any {@link Ext.Component} is added or inserted into the container.
+}'beforeadd': {
+	fn: function (i_self, i_component, n_index, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: beforeadd</description>
+	<scope>source.js</scope>
+	<tabTrigger>beforeadd</tabTrigger>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[${15:{
+	xtype: 'htmleditor',
+	name: '${1:#string}'${2:${3:,
+	anchor: '${8:100%}'}${4:,
+	${9:enableColors}: ${10:'#boolean enableFont/FontSize/Format....'}}${5:,
+	fieldLabel: '${11:#string}'}${6:,
+	labelWidth: ${12:'#number'}}${7:,
+	value: ${13:'#mixed'}}}${14:}
+\}}]]></content>
+    <description>xtype: htmleditor</description>
+    <scope>source.js</scope>
+    <tabTrigger>html</tabTrigger>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[${5:{
+	xtype: 'tbtext'${1:}${2:,
+	text: '${3:#string}'}${4:}
+\}}]]></content>
+	<description>xtype: tbtext</description>
+	<scope>source.js</scope>
+	<tabTrigger>toolbartext</tabTrigger>
+</snippet>

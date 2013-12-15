@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[${9:{
+	xtype: 'pagingtoolbar'${1:${2:,
+	store: ${5:store}}${3:,
+	dock: '${6:bottom}'}${4:,
+	displayInfo: ${7:true}}${8:}}
+\}}]]></content>
+	<description>xtype: pagingtoolbar</description>
+	<scope>source.js</scope>
+	<tabTrigger>paging</tabTrigger>
+</snippet>

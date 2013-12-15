@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[${13:{
+	xtype: 'tabpanel',
+	name: '${1:#string}'${2:${3:,
+	style: {
+		${6:padding: '${7:15}px'}${8:}
+	\}}${4:,
+	border: ${9:true}}${5:,
+	items: ${10:[
+		${11:}
+	]}}}${12:}
+\}}]]></content>
+	<description>xtype: tabpanel</description>
+	<scope>source.js</scope>
+	<tabTrigger>tabpanel</tabTrigger>
+</snippet>

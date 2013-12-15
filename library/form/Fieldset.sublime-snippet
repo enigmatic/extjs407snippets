@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[${21:{
+	xtype:'fieldset',
+	name: '${1:#string}'${2:${3:,
+	title: '${10:#string}'}${4:,
+	columnWidth: ${11:0.5}}${5:,
+	collapsible: ${12:true}}${6:,
+	checkboxToggle: ${13:false}${7:,}
+	layout: {
+		type: '${14:anchor}'${15:}
+	\}}${8:,
+	defaults: {
+		anchor: '${16:100%}'${17:}
+	\}}${9:,
+	items :${18:[
+		${19:}
+	]}}}${20:}
+\}}]]></content>
+	<description>xtype: fieldset</description>
+	<scope>source.js</scope>
+	<tabTrigger>fieldset</tabTrigger>
+</snippet>

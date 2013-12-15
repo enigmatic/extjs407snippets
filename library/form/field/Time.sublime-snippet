@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[${24:{
+	xtype: 'timefield',
+	name: '${1:#string}'${2:${3:,
+	allowBlank: ${13:true}}${4:,
+	anchor: '${14:100%}'}${5:,
+	emptyText: '${15:#string}'}${6:,
+	fieldLabel: '${16:#string}'}${7:,
+	format: '${17:g:i A}'}${8:,
+	maxValue: '${18:8:00 AM}'}${9:,
+	minValue: '${19:6:00 AM}'}${10:,
+	increment: ${20:30}}${11:,
+	labelWidth: ${21:'#number'}}${12:,
+	value: ${22:'#mixed'}}}${23:}
+\}}]]></content>
+    <description>xtype: timefield</description>
+    <scope>source.js</scope>
+    <tabTrigger>time</tabTrigger>
+</snippet>

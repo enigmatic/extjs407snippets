@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[${9:{
+	xtype: 'checkboxgroup',
+	name: '${1:#string}',
+	columns: ${4:3}${2:,
+	vertical: ${5:false}}${3:,
+	items: ${6:[
+		${7:}
+	]}}${8:}
+\}}]]></content>
+	<description>xtype: checkboxgroup</description>
+	<scope>source.js</scope>
+	<tabTrigger>checkboxgroup</tabTrigger>
+</snippet>

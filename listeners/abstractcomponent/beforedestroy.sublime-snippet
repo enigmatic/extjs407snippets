@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// Fires before a Component has been visually deactivated.
+// Returning false from an event listener can prevent the deactivate from occurring.
+}'beforedestroy': {
+	fn: function (i_self, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: beforedestroy</description>
+	<scope>source.js</scope>
+	<tabTrigger>beforedestroy</tabTrigger>
+</snippet>

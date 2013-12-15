@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// Fires before the component is shown when calling the show method.
+// Return false from an event handler to stop the show.
+}'beforeshow': {
+	fn: function (i_self, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: beforeshow</description>
+	<scope>source.js</scope>
+	<tabTrigger>beforeshow</tabTrigger>
+</snippet>

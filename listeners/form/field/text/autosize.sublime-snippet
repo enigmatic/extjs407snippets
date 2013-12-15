@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[${3:// Fires when the autoSize function is triggered
+// and the field is resized according to the grow/growMin/growMax configs as a result.
+// This event provides a hook for the developer to apply additional logic at runtime to resize the field if needed.
+}'autosize': {
+	fn: function (i_self, n_width, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: autosize</description>
+	<scope>source.js</scope>
+	<tabTrigger>autosize</tabTrigger>
+</snippet>

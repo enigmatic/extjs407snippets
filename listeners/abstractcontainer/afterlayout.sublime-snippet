@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires when the components in this container are arranged by the associated layout manager.
+}'afterlayout': {
+	fn: function (i_self, i_layout, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: afterlayout</description>
+	<scope>source.js</scope>
+	<tabTrigger>afterlayout</tabTrigger>
+</snippet>

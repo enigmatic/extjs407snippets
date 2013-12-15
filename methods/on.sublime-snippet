@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[on({
+	${1:}
+})${2:;}]]></content>
+	<description>adds listener</description>
+	<scope>source.js</scope>
+	<tabTrigger>on</tabTrigger>
+</snippet>

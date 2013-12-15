@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[${12:{
+	xtype: 'displayfield',
+	name: '${6:#string}'${1:${2:,
+	anchor: '${7:100%}'}${3:,
+	fieldLabel: '${8:#string}'}${4:,
+	labelWidth: ${9:'#number'}}${5:,
+	value: ${10:'#mixed'}}}${11:}
+\}}]]></content>
+    <description>xtype: displayfield</description>
+    <scope>source.js</scope>
+    <tabTrigger>display</tabTrigger>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// Fires before this panel is expanded.
+// Return false to prevent the expand.
+}'beforecollapse': {
+	fn: function (i_self, s_direction, b_animate, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: beforecollapse</description>
+	<scope>source.js</scope>
+	<tabTrigger>beforecollapse</tabTrigger>
+</snippet>

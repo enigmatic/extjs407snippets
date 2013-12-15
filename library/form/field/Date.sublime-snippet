@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[${18:{
+	xtype: 'datefield',
+	name: '${1:#string}'${2:${3:,
+	allowBlank: ${10:true}}${4:,
+	anchor: '${11:100%}'}${5:,
+	emptyText: '${12:#string}'}${6:,
+	fieldLabel: '${13:#string}'}${7:,
+	format: '${14:m/d/Y}'}${8:,
+	labelWidth: ${15:'#number'}}${9:,
+	value: ${16:'#mixed'}}}${17:}
+\}}]]></content>
+    <description>xtype: datefield</description>
+    <scope>source.js</scope>
+    <tabTrigger>date</tabTrigger>
+</snippet>

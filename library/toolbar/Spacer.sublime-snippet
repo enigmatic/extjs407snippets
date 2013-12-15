@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[${5:{
+	xtype: 'tbspacer'${1:}${2:,
+	width: ${3:2}}${4:}
+\}}]]></content>
+	<description>xtype: tbspacer</description>
+	<scope>source.js</scope>
+	<tabTrigger>toolbarspacer</tabTrigger>
+</snippet>

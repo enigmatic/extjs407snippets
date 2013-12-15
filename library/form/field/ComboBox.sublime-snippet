@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[${29:{
+	xtype: 'combobox',
+	name: '${1:#string}'${2:${3:,
+	allowBlank: ${15:true}}${4:,
+	anchor: '${16:100%}'}${5:,
+	displayField: '${17:#string}'}${6:,
+	valueField: '${18:#string}'}${7:,
+	emptyText: '${19:#string}'}${8:,
+	fieldLabel: '${20:#string}'}${9:,
+	forceSelection: ${21:false}}${10:,
+	labelWidth: ${22:'#number'}}${11:,
+	store: Ext.create('Ext.data.Store', {
+		fields: ['${18:#string}', '${17:#string}']${23:,
+		data: ${24:[
+			{'${18:#string}': '#mixed', '${17:#string}': '#mixed'\}
+		]}}
+	\})}${12:,
+	typeAhead: ${25:false}}${13:,
+	value: ${26:'#mixed'}}${14:,
+	queryMode: '${27:local}'}}${28:}
+\}}]]></content>
+    <description>xtype: combobox</description>
+    <scope>source.js</scope>
+    <tabTrigger>combo</tabTrigger>
+</snippet>

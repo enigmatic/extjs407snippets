@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires after the state of the object is restored.
+}'staterestore': {
+	fn: function (i_self, o_state, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: staterestore</description>
+	<scope>source.js</scope>
+	<tabTrigger>staterestore</tabTrigger>
+</snippet>

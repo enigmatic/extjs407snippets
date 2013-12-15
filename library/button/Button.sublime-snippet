@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[${20:{
+	xtype: 'button',
+	name: '${1:#string}'${2:${3:,
+	text: '${10:#string}'}${4:,
+	enableToggle: ${11:false},
+	allowDepress: ${12:true},
+	pressed: ${13:false}}${5:,
+	textAlign: '${14:center}'}${6:,
+	type: '${15:button}'}${7:,
+	handler: function (i_button) {
+		// Code here on click...
+	\}}${8:,
+	arrowAlign: '${16:right}'}${9:,
+	menu: ${17:[
+		${18:}
+	]}}}${19:}
+\}}]]></content>
+	<description>xtype: button</description>
+	<scope>source.js</scope>
+	<tabTrigger>button</tabTrigger>
+</snippet>

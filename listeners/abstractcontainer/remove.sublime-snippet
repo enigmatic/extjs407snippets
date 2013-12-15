@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires after any component is removed from the container. (bubbles)
+}'remove': {
+	fn: function (i_self, i_layout, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: remove</description>
+	<scope>source.js</scope>
+	<tabTrigger>remove</tabTrigger>
+</snippet>

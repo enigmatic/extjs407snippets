@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[${18:{
+	xtype: 'fileuploadfield',
+	name: '${1:#string}'${2:${3:,
+	allowBlank: ${10:false}}${4:,
+	anchor: '${11:100%}'}${5:,
+	buttonText: '${12:#string}'}${6:,
+	emptyText: '${13:#string}'}${7:,
+	fieldLabel: '${14:#string}'}${8:,
+	labelWidth: ${15:'#number'}}${9:,
+	value: ${16:'#mixed'}}}${17:}
+\}}]]></content>
+    <description>xtype: fileuploadfield</description>
+    <scope>source.js</scope>
+    <tabTrigger>file</tabTrigger>
+</snippet>

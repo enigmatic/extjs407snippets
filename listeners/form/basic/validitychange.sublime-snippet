@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires when the dirty state of the component changes
+}'validitychange': {
+	fn: function (i_self, b_valid, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: dirtychange</description>
+	<scope>source.js</scope>
+	<tabTrigger>dirtychange</tabTrigger>
+</snippet>

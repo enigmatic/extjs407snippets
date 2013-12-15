@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[${13:{
+	xtype: 'fieldcontainer',
+	name: '${1:#string}'${2:${3:,
+	fieldLabel: '${7:#string}'}${4:,
+	anchor: '${8:100%}'}${5:,
+	labelWidth: ${9:'#number'}}${6:,
+	items: ${10:[
+		${11:}
+	]}}}${12:}
+\}}]]></content>
+	<description>xtype: fieldcontainer</description>
+	<scope>source.js</scope>
+	<tabTrigger>fieldcontainer</tabTrigger>
+</snippet>

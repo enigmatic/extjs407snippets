@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires after the Panel has been resized.
+}'bodyresize': {
+	fn: function (i_self, n_width, n_height, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: bodyresize</description>
+	<scope>source.js</scope>
+	<tabTrigger>bodyresize</tabTrigger>
+</snippet>

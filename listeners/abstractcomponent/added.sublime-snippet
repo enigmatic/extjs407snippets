@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires after a Component had been added to a Container.
+}'activate': {
+	fn: function (i_self, i_container, n_position, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: added</description>
+	<scope>source.js</scope>
+	<tabTrigger>added</tabTrigger>
+</snippet>

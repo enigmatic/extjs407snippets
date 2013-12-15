@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires when the active error message is changed via setActiveError.
+}'errorchange': {
+	fn: function (i_self, s_error, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: errorchange</description>
+	<scope>source.js</scope>
+	<tabTrigger>errorchange</tabTrigger>
+</snippet>

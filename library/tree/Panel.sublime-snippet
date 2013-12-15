@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[${21:{
+	xtype: 'treepanel',
+	name: '${1:#string}'${2:${3:,
+	border: ${9:true}}${4:,
+	displayField: '${10:text}'}${5:,
+	lines: ${11:true}}${6:,
+	rootVisible: ${12:true}}${7:,
+	title: '${13:#string}'}${8:,
+	store: ${14:Ext.create('Ext.data.TreeStore', ${15:{
+		root: ${16:{
+			expanded: ${17:true},
+			children: ${18:[
+				${19:}
+			]}
+		\}}
+	\}})}}}${20:}
+\}}]]></content>
+	<description>xtype: treepanel</description>
+	<scope>source.js</scope>
+	<tabTrigger>treepanel</tabTrigger>
+</snippet>

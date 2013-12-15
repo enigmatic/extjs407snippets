@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[${3:// FFires before this panel is expanded.
+// Return false to prevent the expand.
+}'beforeexpand': {
+	fn: function (i_self, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: beforeexpand</description>
+	<scope>source.js</scope>
+	<tabTrigger>beforeexpand</tabTrigger>
+</snippet>

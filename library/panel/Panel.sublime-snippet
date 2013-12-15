@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[${28:{
+	xtype: 'panel',
+	name: '${1:#string}'${2:${3:,
+	title: '${11:#string}'}${4:,
+	layout: {
+		type: '${12:auto}'${13:}
+	\}}${5:,
+	style: {
+		${14:padding: '${15:15}px'}${16:}
+	\}}${6:,
+	border: ${17:true}}${7:,
+	tbar: ${18:[
+		${19:// Toolbar top}
+	]}${8:,
+	bbar: ${20:[
+		${21:// Toobar bottom}
+	]}}}${9:,
+	dockedItems: ${22:[
+		${24:{
+			${23:dock: 'top',
+			weight: 1}
+		\}}
+	]}}${10:,
+	items: ${25:[
+		${26:}
+	]}}}${27:}
+\}}]]></content>
+	<description>xtype: panel</description>
+	<scope>source.js</scope>
+	<tabTrigger>panel</tabTrigger>
+</snippet>

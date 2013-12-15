@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[${3:// Fires after a Component has been visually activated.
+}'activate': {
+	fn: function (i_self, o_eOpts) {
+		${4:// Code here...}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: activate</description>
+	<scope>source.js</scope>
+	<tabTrigger>activate</tabTrigger>
+</snippet>

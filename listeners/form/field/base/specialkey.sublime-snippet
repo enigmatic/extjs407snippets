@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[${3:// Fires when any key related to navigation (arrows, tab, enter, esc, etc.) is pressed.
+// To handle other keys see Ext.util.KeyMap.
+// You can check o_event.getKey() to determine which key was pressed.
+}'specialkey': {
+	fn: function (i_self, o_event, o_eOpts) {
+		${4:
+		var n_key = o_event.getKey();
+		}${5:}
+	\}${1:,
+	single: ${2:false}}
+\}]]></content>
+	<description>event: specialkey</description>
+	<scope>source.js</scope>
+	<tabTrigger>specialkey</tabTrigger>
+</snippet>

@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[${31:{
+	xtype: 'panel',
+	layout: 'accordion',
+	name: '${1:#string}'${2:${3:,
+	title: '${10:#string}'}${5:,
+	layoutConfig: ${11:{${12:
+		titleCollapse: ${17:false}}${13:,
+		animate: ${18:true}}${14:,
+		activeOnTop: ${19:false}}${15:,
+		collapseFirst: ${20:false}}${16:,
+		hideCollapseTool: ${21:false}}${22:}
+	\}}}${6:,
+	border: ${23:true}}${7:,
+	tbar: ${24:[
+		${25:// Toolbar top}
+	]}${8:,
+	bbar: ${26:[
+		${27:// Toobar bottom}
+	]}}}${9:,
+	items: ${28:[
+		${29:}
+	]}}}${30:}
+\}}]]></content>
+	<description>xtype: panel</description>
+	<scope>source.js</scope>
+	<tabTrigger>accordion</tabTrigger>
+</snippet>
