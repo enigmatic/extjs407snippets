@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Ext.create('${1:Namespace}'${2:, {
-	${3:configOption}: ${4:value}
+	${3:}
 \}});]]></content>
     <description>Ext.create</description>
     <scope>source.js</scope>
