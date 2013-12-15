@@ -8,3 +8,4 @@ This will need some tweaking as the snippets are being used/refined
   
 Use and distribute as you wish  
 Igor Szyporyn
+igor.szyporyn@gmail.com
