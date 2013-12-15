@@ -6,4 +6,5 @@ The snippets that create xtypes will select itself as the last field tab selecti
 Note that I have selected what seemed to make sense in a balance act in showing API info vs. too many options to tab through.  
 This will need some tweaking as the snippets are being used/refined  
   
-Use and distribute as you wish
+Use and distribute as you wish  
+Igor Szyporyn
