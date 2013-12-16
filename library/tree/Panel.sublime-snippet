@@ -16,7 +16,7 @@
 		\}}
 	\}})}}}${20:}
 \}}]]></content>
-	<description>xtype: treepanel</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
 	<tabTrigger>treepanel</tabTrigger>
 </snippet>

@@ -8,7 +8,7 @@
 	\}${1:,
 	single: ${2:false}}
 \}]]></content>
-	<description>event: autosize</description>
+	<description>event</description>
 	<scope>source.js</scope>
 	<tabTrigger>autosize</tabTrigger>
 </snippet>

@@ -4,7 +4,7 @@
 	name: '${1:#string}',
 	value: ${2:'#mixed'}${4:}
 \}}]]></content>
-    <description>xtype: hiddenfield</description>
+    <description>xtype</description>
     <scope>source.js</scope>
-    <tabTrigger>hidden</tabTrigger>
+    <tabTrigger>hiddenfield</tabTrigger>
 </snippet>

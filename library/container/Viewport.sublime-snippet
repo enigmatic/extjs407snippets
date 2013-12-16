@@ -13,7 +13,7 @@
 		\}}${10:}
 	]}}}${11:}
 \}}]]></content>
-	<description>xtype: viewport</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
 	<tabTrigger>viewport</tabTrigger>
 </snippet>

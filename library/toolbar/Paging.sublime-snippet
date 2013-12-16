@@ -5,7 +5,7 @@
 	dock: '${6:bottom}'}${4:,
 	displayInfo: ${7:true}}${8:}}
 \}}]]></content>
-	<description>xtype: pagingtoolbar</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
-	<tabTrigger>paging</tabTrigger>
+	<tabTrigger>pagingtoolbar</tabTrigger>
 </snippet>

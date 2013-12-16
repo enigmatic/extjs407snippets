@@ -7,7 +7,7 @@
 	\}${1:,
 	single: ${2:false}}
 \}]]></content>
-	<description>event: fielderrorchange</description>
+	<description>event</description>
 	<scope>source.js</scope>
 	<tabTrigger>fielderrorchange</tabTrigger>
 </snippet>

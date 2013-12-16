@@ -6,7 +6,7 @@
 	\}${1:,
 	single: ${2:false}}
 \}]]></content>
-	<description>event: dirtychange</description>
+	<description>event</description>
 	<scope>source.js</scope>
 	<tabTrigger>dirtychange</tabTrigger>
 </snippet>

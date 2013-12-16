@@ -7,7 +7,7 @@
 	\}${1:,
 	single: ${2:false}}
 \}]]></content>
-	<description>event: beforeshow</description>
+	<description>event</description>
 	<scope>source.js</scope>
 	<tabTrigger>beforeshow</tabTrigger>
 </snippet>

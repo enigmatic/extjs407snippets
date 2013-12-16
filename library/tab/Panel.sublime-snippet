@@ -10,7 +10,7 @@
 		${11:}
 	]}}}${12:}
 \}}]]></content>
-	<description>xtype: tabpanel</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
 	<tabTrigger>tabpanel</tabTrigger>
 </snippet>

@@ -26,7 +26,7 @@
 		\}}
 	\}}}${19:}
 \}}]]></content>
-	<description>xtype: spinnerfield</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
-	<tabTrigger>spinner</tabTrigger>
+	<tabTrigger>spinnerfield</tabTrigger>
 </snippet>

@@ -26,7 +26,7 @@
 		${26:}
 	]}}}${27:}
 \}}]]></content>
-	<description>xtype: panel</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
 	<tabTrigger>panel</tabTrigger>
 </snippet>

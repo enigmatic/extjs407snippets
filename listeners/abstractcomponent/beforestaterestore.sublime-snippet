@@ -7,7 +7,7 @@
 	\}${1:,
 	single: ${2:false}}
 \}]]></content>
-	<description>event: beforestaterestore</description>
+	<description>event</description>
 	<scope>source.js</scope>
 	<tabTrigger>beforestaterestore</tabTrigger>
 </snippet>

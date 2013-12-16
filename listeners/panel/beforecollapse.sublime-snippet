@@ -7,7 +7,7 @@
 	\}${1:,
 	single: ${2:false}}
 \}]]></content>
-	<description>event: beforecollapse</description>
+	<description>event</description>
 	<scope>source.js</scope>
 	<tabTrigger>beforecollapse</tabTrigger>
 </snippet>

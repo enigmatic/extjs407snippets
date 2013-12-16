@@ -9,7 +9,7 @@
 		${10:}
 	]}}${11:}
 \}}]]></content>
-	<description>xtype: radiogroup</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
 	<tabTrigger>radiogroup</tabTrigger>
 </snippet>

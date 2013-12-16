@@ -7,7 +7,7 @@
 	labelWidth: ${9:'#number'}}${5:,
 	value: ${10:'#mixed'}}}${11:}
 \}}]]></content>
-    <description>xtype: displayfield</description>
+    <description>xtype</description>
     <scope>source.js</scope>
-    <tabTrigger>display</tabTrigger>
+    <tabTrigger>displayfield</tabTrigger>
 </snippet>

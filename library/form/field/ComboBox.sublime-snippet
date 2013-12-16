@@ -20,7 +20,7 @@
 	value: ${26:'#mixed'}}${14:,
 	queryMode: '${27:local}'}}${28:}
 \}}]]></content>
-    <description>xtype: combobox</description>
+    <description>xtype</description>
     <scope>source.js</scope>
     <tabTrigger>combo</tabTrigger>
 </snippet>

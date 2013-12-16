@@ -10,7 +10,7 @@
 	inputValue: '${15:on}'}${9:,
 	value: ${16:'#mixed'}}}${17:}
 \}}]]></content>
-    <description>xtype: checkboxfield</description>
+    <description>xtype</description>
     <scope>source.js</scope>
-    <tabTrigger>checkbox</tabTrigger>
+    <tabTrigger>checkboxfield</tabTrigger>
 </snippet>

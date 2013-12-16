@@ -16,7 +16,7 @@
 		${19:}
 	]}}}${20:}
 \}}]]></content>
-	<description>xtype: fieldset</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
 	<tabTrigger>fieldset</tabTrigger>
 </snippet>

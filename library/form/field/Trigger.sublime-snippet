@@ -17,7 +17,7 @@
 	\}}${12:,
 	value: ${20:'#mixed'}}}${21:}
 \}}]]></content>
-    <description>xtype: triggerfield</description>
+    <description>xtype</description>
     <scope>source.js</scope>
-    <tabTrigger>trigger</tabTrigger>
+    <tabTrigger>triggerfield</tabTrigger>
 </snippet>

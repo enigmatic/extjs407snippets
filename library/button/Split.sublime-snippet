@@ -20,7 +20,7 @@
 		${19:}
 	]}}${21:}
 }}]]></content>
-	<description>xtype: splitbutton</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
-	<tabTrigger>buttonsplit</tabTrigger>
+	<tabTrigger>splitbutton</tabTrigger>
 </snippet>

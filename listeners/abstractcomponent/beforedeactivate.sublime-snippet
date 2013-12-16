@@ -7,7 +7,7 @@
 	\}${1:,
 	single: ${2:false}}
 \}]]></content>
-	<description>event: beforedeactivate</description>
+	<description>event</description>
 	<scope>source.js</scope>
 	<tabTrigger>beforedeactivate</tabTrigger>
 </snippet>

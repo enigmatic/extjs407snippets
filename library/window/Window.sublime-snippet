@@ -19,7 +19,7 @@
 		${23:}
 	]}}}${24:}
 \}}]]></content>
-	<description>xtype: window</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
 	<tabTrigger>window</tabTrigger>
 </snippet>

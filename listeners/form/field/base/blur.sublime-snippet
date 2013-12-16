@@ -6,7 +6,7 @@
 	\}${1:,
 	single: ${2:false}}
 \}]]></content>
-	<description>event: blur</description>
+	<description>event</description>
 	<scope>source.js</scope>
 	<tabTrigger>blur</tabTrigger>
 </snippet>

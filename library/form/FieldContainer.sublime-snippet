@@ -9,7 +9,7 @@
 		${11:}
 	]}}}${12:}
 \}}]]></content>
-	<description>xtype: fieldcontainer</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
 	<tabTrigger>fieldcontainer</tabTrigger>
 </snippet>

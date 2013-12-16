@@ -6,7 +6,7 @@
 	\}${1:,
 	single: ${2:false}}
 \}]]></content>
-	<description>event: activate</description>
+	<description>event</description>
 	<scope>source.js</scope>
 	<tabTrigger>activate</tabTrigger>
 </snippet>

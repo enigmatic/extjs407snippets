@@ -6,7 +6,7 @@
 	\}${1:,
 	single: ${2:false}}
 \}]]></content>
-	<description>event: focus</description>
+	<description>event</description>
 	<scope>source.js</scope>
 	<tabTrigger>focus</tabTrigger>
 </snippet>

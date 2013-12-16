@@ -11,7 +11,7 @@
 	minValue: ${18:'#number'}}${11:,
 	value: ${19:'#number'}}}${20:}
 \}}]]></content>
-	<description>xtype: numberfield</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
-	<tabTrigger>number</tabTrigger>
+	<tabTrigger>numberfield</tabTrigger>
 </snippet>

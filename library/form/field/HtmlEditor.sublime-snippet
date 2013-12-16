@@ -8,7 +8,7 @@
 	labelWidth: ${12:'#number'}}${7:,
 	value: ${13:'#mixed'}}}${14:}
 \}}]]></content>
-    <description>xtype: htmleditor</description>
+    <description>xtype</description>
     <scope>source.js</scope>
-    <tabTrigger>html</tabTrigger>
+    <tabTrigger>htmleditor</tabTrigger>
 </snippet>

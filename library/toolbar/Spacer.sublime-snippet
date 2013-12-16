@@ -3,7 +3,7 @@
 	xtype: 'tbspacer'${1:}${2:,
 	width: ${3:2}}${4:}
 \}}]]></content>
-	<description>xtype: tbspacer</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
-	<tabTrigger>toolbarspacer</tabTrigger>
+	<tabTrigger>tbspacer</tabTrigger>
 </snippet>

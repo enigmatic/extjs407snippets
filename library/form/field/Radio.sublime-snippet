@@ -11,8 +11,8 @@
 	labelWidth: ${17:'#number'}}${10:,
 	value: ${18:'#mixed'}}}${19:}
 \}}]]></content>
-    <description>xtype: radiofield</description>
+    <description>xtype</description>
     <scope>source.js</scope>
-    <tabTrigger>radio</tabTrigger>
+    <tabTrigger>radiofield</tabTrigger>
 </snippet>
 

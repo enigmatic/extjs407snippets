@@ -10,7 +10,7 @@
 	labelWidth: ${15:'#number'}}${9:,
 	value: ${16:'#mixed'}}}${17:}
 \}}]]></content>
-    <description>xtype: datefield</description>
+    <description>xtype</description>
     <scope>source.js</scope>
-    <tabTrigger>date</tabTrigger>
+    <tabTrigger>datefield</tabTrigger>
 </snippet>

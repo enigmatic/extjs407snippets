@@ -5,7 +5,7 @@
 		${3:}
 	]}}
 \}}]]></content>
-	<description>xtype: toolbar</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
 	<tabTrigger>toolbar</tabTrigger>
 </snippet>

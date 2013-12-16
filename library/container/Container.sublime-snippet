@@ -13,7 +13,7 @@
 		${13:}
 	]}}}${14:}
 \}}]]></content>
-	<description>xtype: container</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
 	<tabTrigger>container</tabTrigger>
 </snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[${2:{
 	xtype: 'tbseparator'${1:}
 \}}]]></content>
-	<description>xtype: tbseparator</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
-	<tabTrigger>toolbarseperator</tabTrigger>
+	<tabTrigger>tbseparator</tabTrigger>
 </snippet>

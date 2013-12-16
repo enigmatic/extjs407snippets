@@ -16,7 +16,7 @@
 		${18:}
 	]}}}${19:}
 \}}]]></content>
-	<description>xtype: button</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
 	<tabTrigger>button</tabTrigger>
 </snippet>

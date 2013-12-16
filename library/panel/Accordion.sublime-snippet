@@ -22,7 +22,7 @@
 		${29:}
 	]}}}${30:}
 \}}]]></content>
-	<description>xtype: panel</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
-	<tabTrigger>accordion</tabTrigger>
+	<tabTrigger>accordion [panel]</tabTrigger>
 </snippet>

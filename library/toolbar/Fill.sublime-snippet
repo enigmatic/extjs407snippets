@@ -2,7 +2,7 @@
 	<content><![CDATA[${2:{
 	xtype: 'tbfill'${1:}
 \}}]]></content>
-	<description>xtype: tbfill</description>
+	<description>xtype</description>
 	<scope>source.js</scope>
-	<tabTrigger>toolbarfill</tabTrigger>
+	<tabTrigger>tbfill</tabTrigger>
 </snippet>

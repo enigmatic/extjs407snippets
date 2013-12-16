@@ -7,7 +7,7 @@
 	\}${1:,
 	single: ${2:false}}
 \}]]></content>
-	<description>event: keyup</description>
+	<description>event</description>
 	<scope>source.js</scope>
 	<tabTrigger>keyup</tabTrigger>
 </snippet>
